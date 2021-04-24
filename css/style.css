@@ -21,7 +21,7 @@ body {
   font-size: 48px;
 }
 
-.header h1 .seo {
+.seo {
   color: #d9dcd6;
 }
 
@@ -86,23 +86,23 @@ p {
   background-color: #2589bd;
 }
 
-.benefit-1 {
+.benefit {
   margin-bottom: 32px;
   color: #ffffff;
 }
 
-.benefit-1 h3 {
+.benefit h3 {
   margin-bottom: 10px;
   text-align: center;
 }
 
-.benefit-1 img {
+.benefit img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
 }
 
-.search {
+.content-block {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -111,11 +111,11 @@ p {
   color: #ffffff;
 }
 
-.search img {
+.content-block img {
   max-height: 200px;
 }
 
-.search h2 {
+.content-block h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
